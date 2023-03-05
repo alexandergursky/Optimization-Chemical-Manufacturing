@@ -1,6 +1,6 @@
 
 # Manufacturer who makes 8 products, has access to 10 ingredients to make the products
-# Manufacturer can legally only product 1000 units a week as a production limit
+# Manufacturer can legally only produce 1000 units a week as a production limit
 # Manufacturer has 25 processes which can run cuncurrently
 # Product 1: provides $30 profit per unit, requires ingredient[1,4,6,7]
 # Product 1: mix ratio [15%, 25%, 40%, 20%]
